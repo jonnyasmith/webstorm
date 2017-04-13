@@ -1,4 +1,8 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt back_slash" />
